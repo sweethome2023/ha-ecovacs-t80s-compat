@@ -1,0 +1,14 @@
+{
+  "domain": "ecovacs_t80s_fix",
+  "name": "Ecovacs T80S 兼容层",
+  "codeowners": ["@sweethome2023"],
+  "config_flow": true,
+  "dependencies": ["ecovacs"],
+  "documentation": "https://github.com/sweethome2023/ha-ecovacs-t80s-compat",
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/sweethome2023/ha-ecovacs-t80s-compat/issues",
+  "requirements": [],
+  "single_config_entry": true,
+  "version": "0.1.0"
+}

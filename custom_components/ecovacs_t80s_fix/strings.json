@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Ecovacs T80S 兼容层",
+        "description": "添加后会为现有 Ecovacs 集成补上 DEEBOT T80S（yaj2zg）的机型能力，并自动重载一次 Ecovacs。"
+      }
+    },
+    "abort": {
+      "already_configured": "兼容层已经添加。"
+    }
+  }
+}
